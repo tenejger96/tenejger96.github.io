@@ -8,18 +8,21 @@
     src: url("font/gilroy-medium.ttf");
     font-style: normal; 
     font-weight: normal;
+    font-display: swap;
 }
 @font-face {
     font-family: "gilroy-regular";
     src: url("font/gilroy-regular.ttf");
     font-style: regular; 
     font-weight: regular;
+    font-display: swap;
 }
 @font-face {
     font-family: "gilroy-bold";
     src: url("font/gilroy-bold.ttf");
     font-style: bold; 
     font-weight: bold;
+    font-display: swap;
 }
 * {
 	margin: 0;
